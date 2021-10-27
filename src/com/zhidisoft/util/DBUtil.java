@@ -12,6 +12,7 @@ import java.util.*;
  * @author 卢健良
  *
  */
+@SuppressWarnings("ALL")
 public class DBUtil {
 	private static String driverClass = "";
 	private static String user = "";
